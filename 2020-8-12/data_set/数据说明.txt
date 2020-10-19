@@ -1,0 +1,2 @@
+py文件是把数据写入一个表的代码
+rollingsales_newyork.csv是合并过后的表
